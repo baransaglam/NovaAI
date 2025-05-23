@@ -19,25 +19,9 @@ It simulates a futuristic login and chat experience with a neon orange / dark-te
 
 ## 🎬 Live Preview
 
-🎬 Watch the Live Video Demo:  
-👉 [Open Demo Page with Embedded Video](https://baransaglam.github.io/NovaAI/NovaAI.html)
+![NovaAI Demo](https://github.com/baransaglam/NovaAI/raw/main/readME_files/novaAI_test.gif)
 
-🔗 **Try the interactive demo page:**  
-[NovaAI Live Preview (HTML demo)](https://baransaglam.github.io/NovaAI/NovaAI.html)
-
----
-
-## 📷 Screenshots
-
-### 🔐 Login Page
-
-![Login](https://github.com/baransaglam/NovaAI/raw/main/readME_files/lPage.png)
-
-### 💬 Chat Interface
-
-![Chat](https://github.com/baransaglam/NovaAI/raw/main/readME_files/novaChat.png)
-
----
+🔗 [Try Interactive Demo Page](https://baransaglam.github.io/NovaAI/NovaAI.html)
 
 ## 📁 Project Structure
 
