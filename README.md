@@ -1,4 +1,4 @@
-# NovaAI 🧠⚡
+# NovaAI 
 
 NovaAI is a modern, responsive AI-powered chat interface inspired by ChatGPT.  
 It simulates a futuristic login and chat experience with a neon orange / dark-tech aesthetic.
@@ -23,5 +23,4 @@ It simulates a futuristic login and chat experience with a neon orange / dark-te
 
 🔗 [Try Interactive Demo Page](https://baransaglam.github.io/NovaAI/NovaAI.html)
 
-## 📁 Project Structure
 
