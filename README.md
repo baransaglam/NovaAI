@@ -21,6 +21,6 @@ It simulates a futuristic login and chat experience with a neon orange / dark-te
 
 ![NovaAI Demo](https://github.com/baransaglam/NovaAI/raw/main/readME_files/novaAI_test.gif)
 
-🔗 [Try Interactive Demo Page](https://baransaglam.github.io/NovaAI/NovaAI.html)
+[![Try NovaAI](https://github.com/baransaglam/NovaAI/raw/main/readME_files/novaAI_test.gif)](https://baransaglam.github.io/NovaAI/NovaAI.html)
 
 
