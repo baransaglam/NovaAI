@@ -19,8 +19,8 @@ It simulates a futuristic login and chat experience with a neon orange / dark-te
 
 ## 🎬 Live Preview
 
-▶ **Watch preview video:**  
-[Download / Watch NovaAI Preview](https://github.com/baransaglam/NovaAI/raw/main/readME_files/novaAI_test.mp4)
+🎬 Watch the Live Video Demo:  
+👉 [Open Demo Page with Embedded Video](https://baransaglam.github.io/NovaAI/NovaAI.html)
 
 🔗 **Try the interactive demo page:**  
 [NovaAI Live Preview (HTML demo)](https://baransaglam.github.io/NovaAI/NovaAI.html)
