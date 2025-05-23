@@ -3,7 +3,7 @@
 NovaAI is a modern, responsive AI-powered chat interface inspired by the style of ChatGPT.  
 It simulates a futuristic login and chat experience with a neon orange / dark tech aesthetic.
 
-![Login Preview](images/login-preview.png)
+![Login Preview](readME_files/IPage.png)
 
 ---
 
